@@ -2,7 +2,7 @@
 ## 1. Abstract
 This project is about recommending the movies to a user based on the movies that the user have rated before.
 The ALS algorithm used in the project is from machine learning library of Apache spark. Using the ALS
-algorithm we define a Matrix Factorization model. Based on the previously rated data we can predict what
+algorithm, a Matrix Factorization model is defined. Based on the previously rated data we can predict what
 movie will be liked by the user.
 
 ## 2. Data set - Movies
